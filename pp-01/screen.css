@@ -35,7 +35,7 @@ h2 {
 
 
 ol, ul {
-  padding-bottom: 0.611em; /* 11 / 18 = 0.61~ */
+  padding-bottom: 0.611rem; /* 11 / 18 = 0.61~ */
 }
 
 ol {
@@ -62,7 +62,7 @@ li li ol {
 }
 
 li {
-  padding-bottom: 0.611em; /* 11 / 22 = 0.6111111 */
+  padding-bottom: 0.611rem; /* 11 / 18 = 0.6111111 */
 }
 
 li li:last-child {
