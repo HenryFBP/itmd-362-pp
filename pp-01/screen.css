@@ -177,6 +177,22 @@ textarea {
 /* Begin site styles below */
 
 /* Base Styles */
+
+/* display input/label as block */
+input,
+label {
+  display: block;
+}
+
+/* fix input padding */
+input {
+  box-sizing: border-box; /* ensure padding subtracts from width */
+  width: 100%;
+  border: 0;
+  line-height: 1;
+  padding: 13px; /* 44px(2*lh) - 18px(font) */
+}
+
 html {
   font-size: 1.125em; /* 18 / 16 = 1.125 */
   line-height: 1.222rem; /* 22 / 18 = 1.222~ */
