@@ -11,6 +11,7 @@ you will use to communicate (e.g., your own Basecamp project [NOT the class-wide
 Trello, or something else).
 
 Write the name of the service your group has decided to use:
+  - Slack
 
 2. In your project coordination software of choice, discuss and choose one member who will create
 the free GitHub Organization account for your team. That member can click the + (plus sign) next to
@@ -22,21 +23,33 @@ Initializing it on GitHub with a `README.md` file is fine, unless you’ve alrea
 on a group member’s computer. **That will be your shared repository for Project 2.**
 
 3. List the names of your group members here:
+  - Reshma Jabeen
+  - Marika Jasinski
+  - John Collins
+  - Henry Post
 
 4. Copy and paste the URL for your group’s GitHub organization here:
+  - https://github.com/ITMD-362-Project-2-Team-Team/
 
 5. Copy and paste the URL for your group’s shared repository here:
+  - https://github.com/ITMD-362-Project-2-Team-Team/itmd-362-project-2-2018/
 
 6. Each member of the group should fork the repository (including the group member whose account
 was used to create the GitHub organization for your project).
 
 Write the URL for your personal fork of the repository here:
+  - https://github.com/HenryFBP/itmd-362-project-2-2018
 
 7. Each member of the group should clone their forked copy of the repository to his/her computer.
 Once you have cloned the forked copy, you should add the *group* repository as a second remote. Run
 `git remote add group` followed by the URL for your group’s repository.
 
 Write or paste the output of `git remote -v` from your copy of the forked repository here:
+
+  - `group   ITMD-362-Project-2-Team-Team (fetch)`
+  - `group   ITMD-362-Project-2-Team-Team (push)`
+  - `origin https://github.com/HenryFBP/itmd-362-project-2-2018 (fetch)`
+  - `origin https://github.com/HenryFBP/itmd-362-project-2-2018 (push)`
 
 8. Next, each group member should add to the `README.md` file his/her name, and a brief few
 sentences of what the member believes are his/her primary strengths. Prior to doing that, be sure to
